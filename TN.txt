@@ -1,0 +1,6 @@
+projec1
+http://localhost:8080/greeting/hi?nickname=Luksorn
+http://localhost:8080/greeting/hello?nickname=mnsv
+
+projec2
+http://localhost:8081/students
